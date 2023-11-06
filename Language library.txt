@@ -1,0 +1,4 @@
+Language library
+1. npm install react-i18next i18next
+2. npm i i18next-browser-languagedetector
+3. npm i i18next-http-backend
