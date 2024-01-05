@@ -64,7 +64,7 @@ export default function App() {
 
   function url(endpoint){
     // return `http://127.0.0.1:8000/api/${endpoint}`
-    return `http://api.fayyozbekov.uz/api/${endpoint}`
+    return `https://api.fayyozbekov.uz/api/${endpoint}`
   }
 
   function headers(){
